@@ -1,0 +1,1 @@
+A MATPLOTLIB animation of a SLIP model simulation from derived dynamics equations.
